@@ -1,0 +1,16 @@
+[
+	{
+		"name":"Pluto",
+		"age":3,
+		"weight":12,
+		"type":"Pavellion",
+		"likes":"eating, playing with ball"
+	},
+	{
+		"name":"Hulk",
+		"age":4,
+		"weight":22,
+		"type":"German Sefford",
+		"likes":"Biting, eating flesh"
+	}
+]
